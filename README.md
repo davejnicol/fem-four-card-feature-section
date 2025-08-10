@@ -60,4 +60,4 @@ I much prefer the simplicity of Grid although when I completed the challenge on 
 
 ## Acknowledgments
 
-Thanks to [Kevin Powell](https://www.youtube.com/@KevinPowell) for all of his amazing videos. Long time viewer of his YouTube content. Saw his latest video and it reminded me of Frontend Mentor. Completed challenge before watching his YT video and adjusted my work slightly with thingst that I learnt from the video.Great watch - [Responsive layout practice for beginners](https://www.youtube.com/watch?v=JFbxl_VmIx0)
+Thanks to [Kevin Powell](https://www.youtube.com/@KevinPowell) for all of his amazing videos. Long time viewer of his YouTube content. Saw his latest video and it reminded me of Frontend Mentor. Completed challenge before watching his YT video and adjusted my work slightly with thingst that I learnt from the video. Great watch - [Responsive layout practice for beginners](https://www.youtube.com/watch?v=JFbxl_VmIx0)
